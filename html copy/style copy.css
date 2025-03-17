@@ -1,0 +1,33 @@
+body {
+    height:100vh;
+ background-color: burlywood;
+ color: #1a0505;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    width:300px;
+    padding: 15px;
+    border:3px solid rgb(18, 20, 20);
+    border-radius:1Opx;;
+}
+input{
+    margin: 5px 0px;
+    height: 35px;
+    padding: 7px;
+}
+button{
+    height:35px;
+    margin: 5px 0px;
+    background-color:cadetblue;
+    border:none;
+    border-radius:5px;
+    color:"#333";
+}
+button:hover{
+    background-color:#333;
+    color:skyblue;
+}

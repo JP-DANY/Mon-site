@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    background-image:url(Elie.JPG) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    font-weight: bold;
+}
+.jp{
+    float: left;
+    background-color: black;
+    color: aliceblue;
+    border: solid 4px red;
+
+}
+.jp1{
+    float: right;
+    background-color: red;
+    color: white;
+    border: solid 4px gray;
+}
+.jp2{
+    clear: both;
+}
+.P{
+    float: right;
+}
+.P1{
+    float: left;
+}

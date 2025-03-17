@@ -1,0 +1,16 @@
+.T{
+    width:1000px ;
+    height: 500px; ;
+    background-image:url(ciel.jfif) ;
+    background-size: contain;
+    background-position: center;
+    background-attachment: scroll;
+}
+.l{
+    width:1000px ;
+    height: 500px; ;
+    background: url(homme\ sportif.jfif) fixed no-repeat 300px 0, url(intérieur\ resto.jpg) fixed no-repeat top left, url(8246e73be519abaf6624f7f86806c4712d51b6b6_KYLIATEE19209.jpg) fixed no-repeat top right;
+}
+img{
+    float: right;
+}

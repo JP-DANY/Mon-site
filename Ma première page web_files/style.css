@@ -1,0 +1,41 @@
+body {
+ background-color: burlywood;
+ color: #1a0505;
+ font-size: 14px;
+ font-weight:bold;
+ font-family: Ariel;
+}
+h2{
+    color:rgb(5, 5, 0);
+}
+img{
+    border:solid 4px black;
+    height:200px;
+    width:200px;
+    border-radius: 15px;
+}
+.grayelement{
+    border:solid red;
+}
+#positif{
+    color:rgb(4, 79, 97);
+ }
+ .suivant{
+    position: absolute;
+    bottom: -78px;
+    right: 20px;
+    border:solid 1px black;
+    background-color:aqua;
+ }
+ .suivant:hover{
+    background-color:black;
+    color:aqua
+ }
+ #e-mail{
+    border:solid 1px black;
+    background-color: aliceblue;
+ }
+ #e-mail:hover{
+    background-color: black;
+    color:aliceblue
+ }
