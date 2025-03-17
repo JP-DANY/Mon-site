@@ -1,6 +1,6 @@
 body {
     height:100vh;
- background-color: burlywood;
+ background-color: red;
  color: #1a0505;
  display: flex;
  align-items: center;
@@ -22,12 +22,12 @@ input{
 button{
     height:35px;
     margin: 5px 0px;
-    background-color:cadetblue;
+    background-color:green;
     border:none;
     border-radius:5px;
     color:"#333";
 }
 button:hover{
     background-color:#333;
-    color:skyblue;
+    color:green;
 }
